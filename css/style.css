@@ -112,8 +112,9 @@ body{
     height: 200px;
     justify-self: flex-end;
     position: relative;
-    left: 60px;
+    justify-self: flex-start;
     top: -80px;
+
 }
 .text_header{
     position: relative;
@@ -362,6 +363,7 @@ body{
 
 .computer_history > .logo_background{
     grid-area: logo_background;
+    
 }
 
 
